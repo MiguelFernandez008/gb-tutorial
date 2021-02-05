@@ -50,3 +50,9 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# ignore gb roms
+*.gb
+*.noi
+*.bat
+.vscode/
